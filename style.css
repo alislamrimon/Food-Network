@@ -128,3 +128,35 @@ h2{
     padding-right: 100px;
     
 }
+
+
+
+
+
+
+.single-div{  
+    width: 33%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 970px;
+    box-shadow: 10px 5px 100px gray;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 20px;  
+    text-align: center; 
+}
+.single-div-one{
+    width: 33%;
+    text-align: center;
+    padding-left: 100px;
+}
+.single-div-two{
+    width: 33%;
+    text-align: center;
+    padding-left: 500px;
+}
+.single-div-three{
+    width: 33%;
+    text-align: center;
+    padding-left: 500px;
+}

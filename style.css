@@ -160,3 +160,24 @@ h2{
     text-align: center;
     padding-left: 500px;
 }
+
+
+.fifth-divition{
+    margin-top: 100px;
+    background-color: black;
+    padding: 475px;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    
+}
+.fifth-divition-style{
+    text-align: center;
+    padding-left: 220px;
+}
+#net-color{
+    color: gray;
+}
+#pra-color{
+    color: white;
+}
